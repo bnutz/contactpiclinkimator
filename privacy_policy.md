@@ -8,14 +8,14 @@ All images are downloaded from the public-facing profile pages of the given soci
 
 ### Description of Permissions Used:
 
-#### android.permission.READ_CONTACTS
- - For reading the current contact info from your address book (current contact pic, etc.)
-#### android.permission.WRITE_CONTACTS
- - For updating the contact records with the new images, saving the list of usernames.
-#### android.permission.INTERNET
- - For downloading the latest profile images from the internet.
-#### android.permission.ACCESS_NETWORK_STATE
- - For the sync scheduler to know when it is OK to download the latest profile images from the internet.
+ - **android.permission.READ_CONTACTS**
+   - For reading the current contact info from your address book (current contact pic, etc.)
+ - **android.permission.WRITE_CONTACTS**
+   - For updating the contact records with the new images, saving the list of usernames.
+ - **android.permission.INTERNET**
+   - For downloading the latest profile images from the internet.
+ - **android.permission.ACCESS_NETWORK_STATE**
+   - For the sync scheduler to know when it is OK to download the latest profile images from the internet.
 
 ### App Link
  - [https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator)
