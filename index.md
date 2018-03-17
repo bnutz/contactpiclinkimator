@@ -18,4 +18,4 @@ Designed to require as few permissions as possible:
 
 That's it!
 
-Download: https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator
+Download: [https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator)
