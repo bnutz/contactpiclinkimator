@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Contact Pic Linkimator
 
-You can use the [editor on GitHub](https://github.com/bnutz/contactpiclinkimator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Contact Pic Linkimator is a simple and light app to keep the contact pics in your address book updated with the latest profile pics from your friends' social media accounts. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+No logins required! 
 
-### Markdown
+Just enter their usernames or IDs from their Instagram, Twitter, Facebook or Google+ accounts and Contact Pic Linkimator will handle the rest.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Social media usernames are saved with your contact entries in the "Contact Notes" field in your address book. So if you sync your address book across multiple devices, the usernames will be automatically backed up and transferred to those devices via Android's own Contact Sync. No need to worry about backing up or losing settings (Google Contacts users will also be able to see and manage their friends' usernames on [contacts.google.com](https://contacts.google.com)).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Note:** All profile pics will be downloaded from the public profile pages of your friends' social media pages. So if the availability of the images will be dependent on the privacy settings of your friends.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Designed to require as few permissions as possible:
+- Read/Write to Contacts (for updating the contact pics)
+- Network Access (to download the latest profile pics)
 
-**Bold** and _Italic_ and `Code` text
+That's it!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bnutz/contactpiclinkimator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Download: https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator
