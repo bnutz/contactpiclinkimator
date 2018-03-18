@@ -12,19 +12,17 @@ Choose an option for extracting URL links from a webpage:
 
 #### Option 2a: (Chrome & Firefox)
  - Either install a browser extension that can do this for you:
-   - Chrome: [https://chrome.google.com/webstore/search/extract%20links?_category=extensions](https://chrome.google.com/webstore/search/extract%20links?_category=extensions)
-   - Firefox: [https://addons.mozilla.org/en-GB/firefox/search/?q=copy+links](https://addons.mozilla.org/en-GB/firefox/search/?q=copy+links)
+   - Chrome: [https://chrome.google.com/webstore/search/](https://chrome.google.com/webstore/search/extract%20links?_category=extensions)
+   - Firefox: [https://addons.mozilla.org/en-GB/firefox/search/](https://addons.mozilla.org/en-GB/firefox/search/?q=copy+links)
 
 #### Option 2b: (Chrome only)
 - Or, if you don't want to install any external browser extensions, use the bookmarklet below:
   - To use, create a new bookmark in Chrome, name it whatever you want, and then paste the script below into the address field:
 
-```javascript
-javascript:(function(){var docLinks=document.links;var checkedList=[];var checkLink;var newDoc=window.open().document;for(var i=0;i<docLinks.length;i++){checkLink=docLinks[i].href;if(checkLink.indexOf('?')>0){checkLink=checkLink.substring(0,checkLink.indexOf('?'));} if(checkLink&&!checkedList.includes(checkLink)){newDoc.writeln(checkLink);newDoc.writeln('<br />');checkedList.push(checkLink);}} newDoc.close();})();
-```
+`javascript:(function(){var docLinks=document.links;var checkedList=[];var checkLink;var newDoc=window.open().document;for(var i=0;i<docLinks.length;i++){checkLink=docLinks[i].href;if(checkLink.indexOf('?')>0){checkLink=checkLink.substring(0,checkLink.indexOf('?'));} if(checkLink&&!checkedList.includes(checkLink)){newDoc.writeln(checkLink);newDoc.writeln('<br />');checkedList.push(checkLink);}} newDoc.close();})();`
 
   - Once saved, the bookmarklet is now ready for use.
-    - *To see how the script works, check out [`username_links_extract.js`](username_links_extract.js) to see the same code in an easier-to-read format and with a breakdown of exactly what each step is doing*
+  - *To see how the script works, check out [`username_links_extract.js`](username_links_extract.js) to see the same code in an easier-to-read format and with a breakdown of exactly what each step is doing*
 
 ### Step 3
 Once your browser is prepared, navigate to the Friend List page of which ever social media network you want to pull from:
@@ -59,14 +57,14 @@ Transfer the list into the app using either:
 #### Option 7a: (Android's Share function)
   - Open the list using any text reader you have on your device.
   - Highlight the entire chunk of text
-  - In the menu that appears whenever you highlight any text in Android, select the "Share" option.
+  - In the menu that appears whenever you highlight any text in Android, select the `Share` option.
   - Share the text into Contact Pic Linkimator
 
 #### Option 7b: (Copy & Paste)
-  - Open the Contact Pic Linkimator app on your device and go to the "Friend Lists" section
-  - Open the import box and select *Paste Clipboard*
+  - Open the Contact Pic Linkimator app on your device and go to the **Friend Lists** section
+  - Open the import box and select `Paste Clipboard`
 
-Once your list is in the import box, click *OK* and the app will pull out all the usernames for you to Linkimate.
+Once your list is in the import box, click `OK` and the app will pull out all the usernames for you to Linkimate.
 
 ### App Link
- - https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator
+ - [https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator)
