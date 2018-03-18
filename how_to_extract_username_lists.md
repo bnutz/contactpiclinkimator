@@ -39,6 +39,7 @@ Once your browser is prepared, navigate to the Friend List page of which ever so
 
 ### Step 4
 Scroll the page down to load the full list of friend names into the browser window.
+i.e. The **links** of all the friends you want to add needs to be loaded into the web page in your browser.
 
 ### Step 5
 Once loaded, use your browser extension / bookmarklet to pull out all URLs from the page into a nice plain-text list.
@@ -65,7 +66,8 @@ Transfer the list into the app using either:
   - Share the text into Contact Pic Linkimator
 
 #### Option 7b: (Copy & Paste)
-  - Open the Contact Pic Linkimator app on your device and go to the **Friend Lists** section
+  - Copy the entire list to the clipboard on your device.
+  - Open the Contact Pic Linkimator app and go to the **Friend Lists** section
   - Open the import box and select `Paste Clipboard`
 
 Once your list is in the import box, click `OK` and the app will pull out all the usernames for you to Linkimate.
