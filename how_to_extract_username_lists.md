@@ -40,7 +40,7 @@ Once your browser is prepared, navigate to the Friend List page of which ever so
 ### Step 4
 Scroll the page down to load the full list of friend names into the browser window.
 
-i.e. The **links** of all the friends you want to add needs to be loaded into the web page in your browser.
+i.e. The **links** of all the friends you want to add need to be loaded into the web page in your browser.
 
 ### Step 5
 Once loaded, use your browser extension / bookmarklet to pull out all URLs from the page into a nice plain-text list.
