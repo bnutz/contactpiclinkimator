@@ -19,7 +19,11 @@ Choose an option for extracting URL links from a webpage:
 - Or, if you don't want to install any external browser extensions, use the bookmarklet below:
   - To use, create a new bookmark in Chrome, name it whatever you want, and then paste the script below into the address field:
 
-`javascript:(function(){var docLinks=document.links;var checkedList=[];var checkLink;var newDoc=window.open().document;for(var i=0;i<docLinks.length;i++){checkLink=docLinks[i].href;if(checkLink.indexOf('?')>0){checkLink=checkLink.substring(0,checkLink.indexOf('?'));} if(checkLink&&!checkedList.includes(checkLink)){newDoc.writeln(checkLink);newDoc.writeln('<br />');checkedList.push(checkLink);}} newDoc.close();})();`
+```javascript
+
+javascript:(function(){var docLinks=document.links;var checkedList=[];var checkLink;var newDoc=window.open().document;for(var i=0;i<docLinks.length;i++){checkLink=docLinks[i].href;if(checkLink.indexOf('?')>0){checkLink=checkLink.substring(0,checkLink.indexOf('?'));} if(checkLink&&!checkedList.includes(checkLink)){newDoc.writeln(checkLink);newDoc.writeln('<br />');checkedList.push(checkLink);}} newDoc.close();})();
+
+```
 
   - Once saved, the bookmarklet is now ready for use.
   - *To see how the script works, check out [`username_links_extract.js`](username_links_extract.js) to see the same code in an easier-to-read format and with a breakdown of exactly what each step is doing*
