@@ -18,10 +18,9 @@ Designed to require as few permissions as possible:
 
 That's it!
 
-#### App Link
+#### Play Store
  - [https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator)
 
 #### Other Links
- - [How to Extract Username Lists from your Social Media Pages](how_to_extract_username_lists)
- - [Libraries & Licences](libraries_licences)
+ - [Frequently Asked Questions](faq/)
  - [Privacy Policy](privacy_policy)
