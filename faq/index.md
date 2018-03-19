@@ -40,11 +40,11 @@
 
 ### Why can't I just login to my social media account and have the app automatically download my friend lists?
 
-#### Reason 1:
+##### Reason 1:
 Because I don't want to deal with a bunch of credentials, permissions, authentications or anything like that.
   - **Contact Pic Linkimator** will only ever download from publically available image links. If your friend has their social media account locked down from public access, then this app will probably not work for their username. (Though usually the profile pic might still be linkable).
 
-#### Reason 2:
+##### Reason 2:
 Because this is actually no longer possible for most social network APIs. A couple of years ago you could easily download a users' full friend list - but since then - security, privacy and spam concerns have led the major social networks to understandably lock down the 'open-ness' of their API platforms and focus more heavily on privacy and protection. 
 
 For example, when *App X* asks you to log in with Facebook, *App X* will only be able to show you Facebook friends who have also installed *App X* and have also logged in with their own Facebook accounts, *and* have also given *App X* permission to view their friends list. *App X* will not be able to see or view any other users outside of this scope.
