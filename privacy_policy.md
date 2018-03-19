@@ -17,5 +17,5 @@ All images are downloaded from the public-facing profile pages of the given soci
  - **android.permission.ACCESS_NETWORK_STATE**
    - For the sync scheduler to know when it is OK to download the latest profile images from the internet.
 
-### App Link
+### Play Store
  - [https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator)
