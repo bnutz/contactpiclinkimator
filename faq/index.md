@@ -15,7 +15,7 @@
 1. The URL will appear in the import box, click `OK` to add it to the import list on the right.
 1. In the Contact List on the left, locate and tap your friend's contact entry to highlight it.
 1. Tap the just-added username on the right to link it to the selected contact.
-1. To set the pic immediately, long press the contact entry to load into its page and tap the ![the Up Arrow button](ic_file_upload_black_24px.svg).
+1. To set the pic immediately, long press the contact entry to load into its page and tap ![the Up Arrow button](ic_file_upload_black_24px.svg).
 
 **Note:** (When a username is successfully added to the contact's username list, the latest profile image for that username will appear. Tap the image to view the image in fullscreen)*
 
