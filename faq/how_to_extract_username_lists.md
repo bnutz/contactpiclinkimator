@@ -73,5 +73,5 @@ Transfer the list into the app using either:
 
 Once your list is in the import box, click `OK` and the app will pull out all the usernames for you to Linkimate.
 
-### App Link
+### Play Store
  - [https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator)
