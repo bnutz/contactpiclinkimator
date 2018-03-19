@@ -49,6 +49,6 @@ Because this is actually no longer possible for most social network APIs. A coup
 
 For example, when *App X* asks you to log in with Facebook, *App X* will only be able to show you Facebook friends who have also installed *App X* and have also logged in with their own Facebook accounts, *and* have also given *App X* permission to view their friends list. *App X* will not be able to see or view any other users outside of this scope.
 
-So unless you get all your friends to also download and install **Contact Pic Linkimator** (which would be nice =), it makes this approach not really feasible for what we wanna achieve.
+So unless you get all your friends to also download and install [**Contact Pic Linkimator**](https://play.google.com/store/apps/details?id=com.justbnutz.contactpicturelinkimator) (which would be nice =), it makes this approach not really feasible for what we wanna achieve.
 
 ---
