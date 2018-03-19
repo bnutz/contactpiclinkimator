@@ -3,7 +3,7 @@
 #### How to set a Contact Pic to my friend's social media profile picture?
 
 - Open the app and select a contact entry.
-- Press the Add button and enter your friends' Instagram, Twitter, Facebook, etc. usernames to their Contact entry in your address book.
+- Press the ![Add Button](ic_add_circle_black_24px.svg) button and enter your friends' Instagram, Twitter, Facebook, etc. usernames to their Contact entry in your address book.
   - (When a username is successfully added to the contact's username list, the latest profile image for that username will appear. Tap the image to view the image in fullscreen)
 - Tap the Up Arrow next to the username you want to use to set that as the Contact Pic for this entry
 
